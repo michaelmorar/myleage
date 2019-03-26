@@ -1,0 +1,6 @@
+mongoDB-string : 127.0.0.1
+mongoDB-user : 
+mongoDB-password : 
+mongoDB-database : db_mileage
+mongoDB-collection : mileages
+protocol : mongodb
