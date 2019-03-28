@@ -3,3 +3,4 @@ mongoDB-user : ares_it_1
 mongoDB-password : SE44HNdYcCxP22B
 mongoDB-database : db_mileage
 mongoDB-collection : mileages
+protocol : mongodb+srv
