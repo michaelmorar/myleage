@@ -1,6 +1,0 @@
-mongoDB-string : cluster0-m9ejp.mongodb.net/test?retryWrites=true
-mongoDB-user : ares_it_1
-mongoDB-password : SE44HNdYcCxP22B
-mongoDB-database : db_mileage
-mongoDB-collection : mileages
-protocol : mongodb+srv
